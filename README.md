@@ -10,7 +10,7 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranqui
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🌟 Soft Skills
-* **Trabajo en Equipo:** Colaboración efectiva en proyectos de desarrollo (Batch #8 CooWeb).
+* **Trabajo en Equipo:** Colaboración efectiva en proyectos de desarrollo.
 * **Resolución de Problemas:** Enfoque analítico para depurar código y optimizar procesos.
 * **Gestión del Tiempo:** Cumplimiento de entregas y organización de sprints de desarrollo.
 * **Adaptabilidad:** Capacidad para aprender y aplicar nuevas tecnologías rápidamente.
