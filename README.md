@@ -24,7 +24,7 @@ Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte (Barranqui
 ### 🤝 Conectemos
 - 🎓 **Universidad:** Universidad del Norte (Barranquilla)
 - 🌐 **Idiomas:** Español (Nativo), Inglés (A2/B1).
-- 📧 **Contacto:** mailethv@uninorte.edu.co
+- 📧 **Contacto:** mailethv@uninorte.edu.co | mailethv22@gmail.com
 
 ---
 *"En constante aprendizaje para construir software de alto impacto."*
