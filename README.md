@@ -12,8 +12,15 @@ Actualmente desarrollo un juego multijugador en tiempo real usando **Firebase (P
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Mi Actividad
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+### 📚 Aprendiendo actualmente
+- 🤖 **Prompt Engineering** en Google AI Studio.
+- ⚡ **Optimización de consultas** en Firebase Firestore.
+- 🎨 **UI/UX con Tailwind CSS** para aplicaciones de alto rendimiento.
 
+### 🛠️ Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🤝 Conectemos
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailethv@uninorte.edu.co)
 ---
 📍 Barranquilla, Colombia | 🎓 Uninorte 2028 | 💬 Español - Inglés (A2/B1)
